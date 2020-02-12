@@ -21,7 +21,7 @@
 <p>High quality (%). File size: </p>
 
 <img src="coral-reef-very-high.jpg" alt="very high quality jpg" />
-<p>Very quality (%). File size: </p>
+<p>Very high quality (%). File size: </p>
 
 <img src="coral-reef-maximum.jpg" alt="maximum quality jpg" />
 <p>Maximum quality (%). File size: </p>
